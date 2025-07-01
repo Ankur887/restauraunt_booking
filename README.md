@@ -1,1 +1,1 @@
-# restauraunt_booking
+# restaurant-booking
