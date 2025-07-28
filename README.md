@@ -1,1 +1,1 @@
-# restaurant-booking
+# restaurant-booking coursera meta project
